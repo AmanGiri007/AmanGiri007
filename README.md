@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AmanGiri007
+- 👋 Hi, I’m Aman Giri
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning MERN stack,Android Development.
 - 💞️ I’m looking to collaborate on ...
