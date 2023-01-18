@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aman Giri
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning Django Web Development, Machine Learning.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Web development, Software engineering. 
 - 📫 LinkedIn Profile: https://www.linkedin.com/in/aman-giri-691229183
 
 <!---
