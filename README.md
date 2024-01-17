@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Python.
 - 🌱 I’m currently learning Django Web Development,Data Science, Machine Learning.
 - 💞️ I’m looking to collaborate on Data Analytics, Machine Learning as well as Data Science Projects. 
-- 📫 LinkedIn Profile: https://www.linkedin.com/in/aman-giri-691229183
+- 📫 LinkedIn Profile: https://www.linkedin.com/in/aman-giri-ag
 
 <!---
 AmanGiri007/AmanGiri007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
